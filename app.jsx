@@ -104,10 +104,10 @@ const App = () => (
 
     <div className="content">
       <header className="intro">
-        <h1>For My Brightest Star</h1>
+        <h1>For the One I Love Very Much</h1>
         <p className="intro-text">
-          These words drift across our own little universe—each one shining just for you.
-          Tweak the messages array to fill the sky with as many whispers of love as you like.
+          You are the one I love, the one who shines brighter than all the stars
+          in the sky.
         </p>
       </header>
 
