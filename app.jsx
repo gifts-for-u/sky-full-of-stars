@@ -1,8 +1,10 @@
 const loveNotes = [
-  "In the quiet of the night, I always find myself wishing on the stars for more time with you.",
-  "Every twinkle above us reminds me of how your smile lights up my world.",
-  "No constellation could ever compare to the map of love I trace whenever I hold your hand.",
-  "My heart glows brightest when it’s orbiting around you—forever and always."
+  "Aku mau terus sama kamu, aku butuh kamu, aku gaakan disini kalo bukan karena kamu.",
+  "Aku tahu hubungan kita jauh dari kata sempurna, tapi aku mau kita belajar bareng buat jadi lebih baik kedepannya.",
+  "Aku mau kita saling sayang, saling cinta, saling jaga, saling support, aku mau kita sama-sama terus.",
+  "Jadi, tetep sama aku ya sayang, aku gamau kamu kemana-mana, aku mau kamu disini terus, disamping aku.",
+  "Aku juga mau kita kaya dulu lagi, atau kaya bulan maret waktu itu, hangatt banget aku suka, yuk sayang kita beresin bareng-bareng.",
+  "I love you to thee moon and back, in every timeline, in every universe, in every reality.",
 ];
 
 const createStarField = (count) =>
@@ -102,10 +104,10 @@ const App = () => (
 
     <div className="content">
       <header className="intro">
-        <h1>For My Brightest Star</h1>
+        <h1>For the One I Love Very Much</h1>
         <p className="intro-text">
-          These words drift across our own little universe—each one shining just for you.
-          Tweak the messages array to fill the sky with as many whispers of love as you like.
+          You are the one I love, the one who shines brighter than all the stars
+          in the sky.
         </p>
       </header>
 
